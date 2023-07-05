@@ -93,7 +93,7 @@ ShowFileList S '调用上述感染核心函数
 - ##### 桌宠原理
 **本样本使用图片逐帧分帧实现动图效果。
 逐帧图片如下：**
-[![](https://cdn.jsdelivr.net/gh/CFITCorporation/cfitpic@a66715cf1fefc989390869a733b68df61c321c82/pic/2023/07/05/c9b0b75052bc2171ad6afa68cf9f2fe6.png)](./ "逐帧图片")  
+[![](https://cdn.jsdelivr.net/gh/CFITCorporation/cfitpic@a66715cf1fefc989390869a733b68df61c321c82/pic/2023/07/05/c9b0b75052bc2171ad6afa68cf9f2fe6.png)](./readme.md "逐帧图片")  
 
 **同样，本样本实现光标吸引、无操作6s后开始活动等功能，具体从源码注释中理解。**  
 - ## 作者
